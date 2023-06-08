@@ -7,3 +7,9 @@ ul {
     color: blueviolet;
     background-color: black;
 }
+/* class practice..bolded 2 names */
+.bold {
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+}
