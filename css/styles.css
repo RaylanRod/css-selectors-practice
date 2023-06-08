@@ -1,6 +1,8 @@
 /* Universal selector */
 *{
     color: green;
+    background-color: black;
+
 }
 /* type selectors */
 ul {
@@ -12,4 +14,8 @@ ul {
     font-weight: bold;
     font-style: italic;
     font-size: large;
+}
+
+.center {
+    text-align: center;
 }
