@@ -2,3 +2,8 @@
 *{
     color: green;
 }
+/* type selectors */
+ul {
+    color: blueviolet;
+    background-color: black;
+}
